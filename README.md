@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Falgun</h1>
+<h1 align="center">Hi there, I'm Falgun 👋</h1>
 <h3 align="center">I am a Software Engineer with a strong passion for building engineering solutions!</h3>
 
 <h3 align="left">Connect with me:</h3>
